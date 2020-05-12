@@ -1,2 +1,2 @@
-Added a line to the file
+Added a line to the file, then I modified the first line
 and then I added another. 
